@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "MSYS2-MINGW64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/msys64_/mingw64/include",
+                "C:/msys64_/mingw64/include/c++/14.2.0",
+                "C:/msys64_/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
+                "C:/msys64_/mingw64/include/c++/14.2.0/backward",
+                "C:/msys64_/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+                "C:/msys64_/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed",
+                "C:/msys64_/mingw64/include/c++/14.2.0/bits"
+            ],
+            "browse": {
+                "path": [
+                    "C:/msys64_/mingw64/include",
+                    "C:/msys64_/mingw64/include/c++/14.2.0",
+                    "C:/msys64_/mingw64/include/c++/14.2.0/bits"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "compilerPath": "C:/msys64_/mingw64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
+
