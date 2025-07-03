@@ -1,4 +1,4 @@
-🔗 [Link do Problema](https://judge.beecrowd.com/pt/problems/view/3416)
+🔗 [Link do Problema](https://judge.beecrowd.com/pt/problems/view/3422)
 -
 
 
