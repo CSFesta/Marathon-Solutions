@@ -20,7 +20,7 @@ Cada pasta contém:
 - ✅ [**Eu Quero Cafééé**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/e%20-%20eu%20quero%20cafe)
 - ⬜ **Falcatrua**
 - ⬜ **La Chaleur**
-- ⬜ **Kimi Räikkönen**
+- ✅ [**Kimi Räikkönen**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/k%20-%20Kimi%20Räikkönen)
 - ✅ [**Torre de Cartas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/h%20-%20torre%20de%20cartas)
 - ⬜ **Infinita String de Dígitos**
 - ✅ [**José e a Súmula**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/j%20-%20jose)

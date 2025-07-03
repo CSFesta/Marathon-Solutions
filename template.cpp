@@ -7,7 +7,7 @@
 
 const int MOD = 1e9 + 7;
 const double EPS = 1e-9;
-const int INF = 1e18;
+const ll INF = 1e18;
 using namespace std;
 
 int main(){
