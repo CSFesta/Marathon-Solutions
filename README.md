@@ -16,7 +16,7 @@ Cada pasta contém:
 - ✅ [**Avaliações de Algoritmos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/a%20-%20avaliacoes)
 - ⬜ **Baita Desafio Complexo**
 - ⬜ **Chimambu**
-- ✅ **Ditados**(https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/d%20-%20ditados)
+- ✅ [**Ditados**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/d%20-%20ditados)
 - ✅ [**Eu Quero Cafééé**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/e%20-%20eu%20quero%20cafe)
 - ⬜ **Falcatrua**
 - ⬜ **La Chaleur**
