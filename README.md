@@ -33,7 +33,7 @@ Cada pasta contém:
 - ⬜ **Busca Periódica**
 - ⬜ **Circuitos Lógicos Matriciais**
 - ✅ [**Decoerência Quântica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/d%20-%20decoerencia%20quantica)
-- ⬜ **Energização de Partículas**
+- ✅ [**Energização de Partículas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/e%20-%20energiza%C3%A7%C3%A3o%20de%20particulas)
 - ⬜ **Feynman Decorando Números**
 - ⬜ **Grover e Seus Caminhos Especiais**
 - ⬜ **Inspecionando o Emaranhamento**
