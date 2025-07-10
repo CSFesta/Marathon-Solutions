@@ -36,7 +36,7 @@ Cada pasta contém:
 - ✅ [**E - Energização de Partículas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/e%20-%20energiza%C3%A7%C3%A3o%20de%20particulas)
 - ⬜ **F - Feynman Decorando Números**
 - ⬜ **G - Grover e Seus Caminhos Especiais**
-- ⬜ **H - Harmonia Palíndromica Binária**
+- ✅ [**H - Harmonia Palíndromica Binária**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/h%20-%20Harmonia%20Pal%C3%ADndromica%20Bin%C3%A1ria)
 - ⬜ **I - Inspecionando o Emaranhamento**
 - ⬜ **J - Jornada das Partículas**
 - ⬜ **K - K Elementos Perdidos**
