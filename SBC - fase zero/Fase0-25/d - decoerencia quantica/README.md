@@ -2,7 +2,7 @@
 -
 
 
-- 🧩 **Dificuldade:** 2 / 12  
+- 🧩 **Dificuldade:** 2 / 13
     -
 - 🗂 **Tópicos:** [*String*, *Números Binários*]  
     -

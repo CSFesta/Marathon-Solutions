@@ -2,7 +2,7 @@
 -
 
 
-- 🧩 **Dificuldade:** 3 / 12  
+- 🧩 **Dificuldade:** 3 / 13  
     -
 - 🗂 **Tópicos:** [*Math*]  
     -

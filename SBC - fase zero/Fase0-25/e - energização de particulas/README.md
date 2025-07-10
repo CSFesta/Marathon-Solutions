@@ -2,7 +2,7 @@
 -
 
 
-- 🧩 **Dificuldade:** 4 / 12  
+- 🧩 **Dificuldade:** 4 / 13  
     -
 - 🗂 **Tópicos:** [*Math*, *Number Theory*, *Sort*]  
     -
