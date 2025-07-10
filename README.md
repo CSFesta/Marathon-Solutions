@@ -39,5 +39,5 @@ Cada pasta contém:
 - ⬜ **Inspecionando o Emaranhamento**
 - ⬜ **Jornada das Partículas**
 - ⬜ **K Elementos Perdidos**
-- ⬜ **Linha de Produção de qPhones**
+- ✅ [**Linha de Produção de qPhones**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/l%20-%20Linha%20de%20Produção)
 - ⬜ **Movimentação Assustadora à Distância**
