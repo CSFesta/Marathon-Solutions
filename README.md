@@ -25,3 +25,19 @@ Cada pasta contém:
 - ⬜ **Infinita String de Dígitos**
 - ✅ [**José e a Súmula**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/j%20-%20jose)
 - ⬜ **Gostos Peculiares**
+
+## 🚀 [**Fase Zero - 2025**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
+
+
+- ⬜ [**Ambíguo Gato de Schrödinger**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/a%20-%20gato%20ambiguo)
+- ⬜ **Busca Periódica**
+- ⬜ **Circuitos Lógicos Matriciais**
+- ⬜ [**Decoerência Quântica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/d%20-%20decoerencia%20quantica)
+- ⬜ **Energização de Partículas**
+- ⬜ **Feynman Decorando Números**
+- ⬜ **Grover e Seus Caminhos Especiais**
+- ⬜ **Inspecionando o Emaranhamento**
+- ⬜ **Jornada das Partículas**
+- ⬜ **K Elementos Perdidos**
+- ⬜ **Linha de Produção de qPhones**
+- ⬜ **Movimentação Assustadora à Distância**
