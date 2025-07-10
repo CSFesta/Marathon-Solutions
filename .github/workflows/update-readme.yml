@@ -1,0 +1,19 @@
+name: Atualizar README automaticamente
+
+on:
+  push:
+    paths:
+      - 'SBC - fase zero/**'
+      - 'scripts/gerar_readme.py'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Rodar script Python
+        run: python scripts/gerar_readme.py
