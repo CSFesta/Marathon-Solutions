@@ -14,7 +14,7 @@ def format_line(phase, letter, name, solved):
 
     full_path = os.path.join(folder_path)
     print(f"Verificando pasta: {full_path}")
-    if not os.path.isdirguo(full_path):
+    if not os.path.isdir(full_path):  # Corrigido de isdirquo para isdir
         print(f"Pasta não encontrada: {full_path}")
         return f"- ⬜ **{letter} - {name}** (Pasta não encontrada)"
     
