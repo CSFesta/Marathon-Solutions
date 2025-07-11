@@ -11,7 +11,7 @@ Cada pasta contém:
 
 ---
 
-## 🚀 [**Fase Zero - 2022**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
+## 🚀 [**Fase Zero - 2022 (6 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
 
 - ✅ [**A  - Avaliações de Algoritmos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/a%20-%20avaliacoes)
 - ⬜ **B - Baita Desafio Complexo**
@@ -26,7 +26,7 @@ Cada pasta contém:
 - ✅ [**K - Kimi Räikkönen**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/k%20-%20Kimi%20Räikkönen)
 - ⬜ **L - La Chaleur**
 
-## 🚀 [**Fase Zero - 2025**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
+## 🚀 [**Fase Zero - 2025 (5 / 13)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
 
 
 - ✅ [**A - Ambíguo Gato de Schrödinger**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/a%20-%20gato%20ambiguo)
