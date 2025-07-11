@@ -27,6 +27,8 @@ jobs:
         run: python scripts/gerar_readme.py
         env:
           PYTHONIOENCODING: utf-8
+          LC_ALL: en_US.UTF-8
+          LANG: en_US.UTF-8
 
       - name: Commit README.md se houver mudanças
         run: |

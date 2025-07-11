@@ -4,22 +4,22 @@ import urllib.parse
 BASE_DIR = "SBC - fase zero"
 PHASES = {
     "Fase0-22": 12,
-    "Fase0-25": 12,  # Ajustado para corresponder ao README
+    "Fase0-25": 12,
 }
 
 def format_line(phase, letter, name, solved):
+    # Usa UTF-8 para nomes de pastas
     folder_name = f"{letter.lower()} - {name.lower()}"
-    folder_path = f"{BASE_DIR}/{phase}/{folder_name}"
-    github_url = f"https://github.com/CSFesta/Marathon-Solutions/tree/main/{urllib.parse.quote(folder_path)}"
-
-    full_path = os.path.join(folder_path)
-    print(f"Verificando pasta: {full_path}")
-    if not os.path.isdir(full_path):  # Corrigido de isdirquo para isdir
-        print(f"Pasta não encontrada: {full_path}")
+    folder_path = os.path.join(BASE_DIR, phase, folder_name)
+    github_url = f"https://github.com/CSFesta/Marathon-Solutions/tree/main/{urllib.parse.quote(folder_path, safe='/:')}"
+    
+    print(f"Verificando pasta: {folder_path}")
+    if not os.path.isdir(folder_path):
+        print(f"Pasta não encontrada: {folder_path}")
         return f"- ⬜ **{letter} - {name}** (Pasta não encontrada)"
     
-    is_solved = any(f.endswith(('.cpp', '.py')) for f in os.listdir(full_path))
-    print(f"Arquivos .cpp/.py encontrados em {full_path}: {is_solved}")
+    is_solved = any(f.endswith(('.cpp', '.py')) for f in os.listdir(folder_path))
+    print(f"Arquivos .cpp/.py encontrados em {folder_path}: {is_solved}")
     
     if is_solved:
         solved.append(1)
@@ -47,11 +47,11 @@ def generate_readme():
             folders = sorted(os.listdir(phase_path))
         except FileNotFoundError:
             print(f"Diretório não encontrado: {phase_path}")
-            content.append(f"## 🚀 [**{phase.replace('-', ' - ')} (0 / {total})**](https://github.com/CSFesta/Marathon-Solutions/tree/main/{urllib.parse.quote(f'{BASE_DIR}/{phase}')}) \n")
+            content.append(f"## 🚀 [**{phase.replace('-', ' - ')} (0 / {total})**](https://github.com/CSFesta/Marathon-Solutions/tree/main/{urllib.parse.quote(phase_path, safe='/:')}) \n")
             content.append(f"- ⚠️ **Diretório da fase não encontrado**\n")
             continue
 
-        content.append(f"## 🚀 [**{phase.replace('-', ' - ')} ({len(solved_counter)} / {total})**](https://github.com/CSFesta/Marathon-Solutions/tree/main/{urllib.parse.quote(f'{BASE_DIR}/{phase}')}) \n")
+        content.append(f"## 🚀 [**{phase.replace('-', ' - ')} ({len(solved_counter)} / {total})**](https://github.com/CSFesta/Marathon-Solutions/tree/main/{urllib.parse.quote(phase_path, safe='/:')}) \n")
 
         lines = []
         for folder in folders:
