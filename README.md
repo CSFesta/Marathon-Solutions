@@ -11,29 +11,34 @@ Cada pasta contém:
 
 ---
 
-## 🚀 [**Fase0 - 22 (0 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22) 
+## 🚀 [**Fase Zero - 2022**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
 
-- ✅ [**a - avaliacoes**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/a%20-%20avaliacoes)
-- ✅ [**d - ditados**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/d%20-%20ditados)
-- ✅ [**e - eu quero cafe**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/e%20-%20eu%20quero%20cafe)
-- ✅ [**h - torre de cartas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/h%20-%20torre%20de%20cartas)
-- ✅ [**j - jose**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/j%20-%20jose)
-- ⬜ **k - Kimi Räikkönen** (Pasta não encontrada)
+- ✅ [**A - Avaliações de Algoritmos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/a%20-%20avaliacoes)
+- ⬜ **B - Baita Desafio Complexo**
+- ⬜ **C - Chimambu**
+- ✅ [**D - Ditados**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/d%20-%20ditados)
+- ✅ [**E - Eu Quero Cafééé**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/e%20-%20eu%20quero%20cafe)
+- ⬜ **F - Falcatrua**
+- ⬜ **G - Gostos Peculiares**
+- ✅ [**H - Torre de Cartas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/h%20-%20torre%20de%20cartas)
+- ⬜ **I - Infinita String de Dígitos**
+- ✅ [**J - José e a Súmula**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/j%20-%20jose)
+- ✅ [**K - Kimi Räikkönen**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/k%20-%20Kimi%20Räikkönen)
+- ⬜ **L - La Chaleur**
 
-## 🚀 [**Fase0 - 25 (0 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25) 
+## 🚀 [**Fase Zero - 2025**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
 
-<<<<<<< HEAD
-- ⬜ **A - Ambíguo Gato de Schrödinger**
-- ⬜ **D - Decoerência Quântica**
-- ⬜ **E - Energização de Partículas**
-- ⬜ **H - Harmonia Palíndromica Binária**
+
+- ✅ [**A - Ambíguo Gato de Schrödinger**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/a%20-%20gato%20ambiguo)
+- ⬜ **B - Busca Periódica**
+- ⬜ **C - Circuitos Lógicos Matriciais**
+- ✅ [**D - Decoerência Quântica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/d%20-%20decoerencia%20quantica)
+- ✅ [**E - Energização de Partículas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/e%20-%20energiza%C3%A7%C3%A3o%20de%20particulas)
+- ⬜ **F - Feynman Decorando Números**
+- ⬜ **G - Grover e Seus Caminhos Especiais**
+- ✅ [**H - Harmonia Palíndromica Binária**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/h%20-%20Harmonia%20Pal%C3%ADndromica%20Bin%C3%A1ria)
+- ⬜ **I - Inspecionando o Emaranhamento**
 - ⬜ **J - Jornada das Partículas**
-- ⬜ **L - Linha de Produção de qPhones**
-=======
-- ⬜ **A - Ambíguo Gato de Schrödinger** (Pasta não encontrada)
-- ⬜ **D - Decoerência Quântica** (Pasta não encontrada)
-- ⬜ **E - Energização de Partículas** (Pasta não encontrada)
-- ⬜ **L - Linha de Produção de qPhones** (Pasta não encontrada)
-- ⬜ **h - Harmonia Palíndromica Binária** (Pasta não encontrada)
-- ⬜ **j - Jornada das Partículas** (Pasta não encontrada)
->>>>>>> 70fe8f12f459bef7d74f6c336a387bad9041e4b2
+- ⬜ **K - K Elementos Perdidos**
+- ✅ [**L - Linha de Produção de qPhones**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/l%20-%20Linha%20de%20Produção)
+- ⬜ **M - Movimentação Assustadora à Distância**
