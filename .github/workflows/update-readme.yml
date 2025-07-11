@@ -7,7 +7,7 @@ on:
       - 'scripts/gerar_readme.py'
 
 permissions:
-  contents: write  # Permite escrita no conteúdo do repositório
+  contents: write
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Usa o token padrão do GitHub Actions
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -25,6 +25,8 @@ jobs:
 
       - name: Rodar script Python
         run: python scripts/gerar_readme.py
+        env:
+          PYTHONIOENCODING: utf-8
 
       - name: Commit README.md se houver mudanças
         run: |
