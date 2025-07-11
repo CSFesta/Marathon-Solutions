@@ -22,18 +22,9 @@ Cada pasta contém:
 
 ## 🚀 [**Fase0 - 25 (0 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25) 
 
-<<<<<<< HEAD
-- ⬜ **A - Ambíguo Gato de Schrödinger**
-- ⬜ **D - Decoerência Quântica**
-- ⬜ **E - Energização de Partículas**
-- ⬜ **H - Harmonia Palíndromica Binária**
-- ⬜ **J - Jornada das Partículas**
-- ⬜ **L - Linha de Produção de qPhones**
-=======
-- ✅ [**a - gato ambiguo**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/a%20-%20gato%20ambiguo)
-- ✅ [**d - decoerencia quantica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/d%20-%20decoerencia%20quantica)
-- ✅ [**e - energização de particulas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/e%20-%20energiza%C3%A7%C3%A3o%20de%20particulas)
+- ⬜ **A - Ambíguo Gato de Schrödinger** (Pasta não encontrada)
+- ⬜ **D - Decoerência Quântica** (Pasta não encontrada)
+- ⬜ **E - Energização de Partículas** (Pasta não encontrada)
+- ⬜ **L - Linha de Produção de qPhones** (Pasta não encontrada)
 - ⬜ **h - Harmonia Palíndromica Binária** (Pasta não encontrada)
 - ⬜ **j - Jornada das Partículas** (Pasta não encontrada)
-- ⬜ **l - Linha de Produção** (Pasta não encontrada)
->>>>>>> 27dddeda5616c7cc242b67fdabdf955feacb1709
