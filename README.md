@@ -22,9 +22,9 @@ Cada pasta contém:
 
 ## 🚀 [**Fase0 - 25 (0 / 13)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25) 
 
-- ⬜ **a - gato ambiguo**
-- ⬜ **d - decoerencia quantica**
-- ⬜ **e - energização de particulas**
-- ⬜ **h - Harmonia Palíndromica Binária**
-- ⬜ **j - Jornada das Partículas**
-- ⬜ **l - Linha de Produção**
+- ⬜ **A - Ambíguo Gato de Schrödinger**
+- ⬜ **D - Decoerência Quântica**
+- ⬜ **E - Energização de Partículas**
+- ⬜ **H - Harmonia Palíndromica Binária**
+- ⬜ **J - Jornada das Partículas**
+- ⬜ **L - Linha de Produção de qPhones**
