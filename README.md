@@ -26,7 +26,7 @@ Cada pasta contém:
 - ✅ [**K - Kimi Räikkönen**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/k%20-%20Kimi%20Räikkönen)
 - ⬜ **L - La Chaleur**
 
-## 🚀 [**Fase Zero - 2025 (5 / 13)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
+## 🚀 [**Fase Zero - 2025 (6 / 13)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
 
 
 - ✅ [**A - Ambíguo Gato de Schrödinger**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/a%20-%20gato%20ambiguo)
@@ -38,7 +38,7 @@ Cada pasta contém:
 - ⬜ **G - Grover e Seus Caminhos Especiais**
 - ✅ [**H - Harmonia Palíndromica Binária**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/h%20-%20Harmonia%20Pal%C3%ADndromica%20Bin%C3%A1ria)
 - ⬜ **I - Inspecionando o Emaranhamento**
-- ⬜ **J - Jornada das Partículas**
+- ✅ [**J - Jornada das Partículas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/J%20-%20Jornada%20das%20Part%C3%ADculas)
 - ⬜ **K - K Elementos Perdidos**
 - ✅ [**L - Linha de Produção de qPhones**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/l%20-%20Linha%20de%20Produção)
 - ⬜ **M - Movimentação Assustadora à Distância**
