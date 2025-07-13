@@ -13,32 +13,32 @@ Cada pasta contém:
 
 ## 🚀 [**Fase Zero - 2022 (6 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
 
-- ✅ [**A  - Avaliações de Algoritmos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/a%20-%20avaliacoes)
+- ✅ [**A  - Avaliações de Algoritmos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/A%20-%20Avaliacoes%20de%20Algoritmos)
 - ⬜ **B - Baita Desafio Complexo**
 - ⬜ **C - Chimambu**
 - ✅ [**D - Ditados**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/d%20-%20ditados)
-- ✅ [**E - Eu Quero Cafééé**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/e%20-%20eu%20quero%20cafe)
+- ✅ [**E - Eu Quero Cafééé**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/E%20-%20Eu%20Quero%20Cafeeee)
 - ⬜ **F - Falcatrua**
 - ⬜ **G - Gostos Peculiares**
 - ✅ [**H - Torre de Cartas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/h%20-%20torre%20de%20cartas)
 - ⬜ **I - Infinita String de Dígitos**
-- ✅ [**J - José e a Súmula**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/j%20-%20jose)
-- ✅ [**K - Kimi Räikkönen**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/k%20-%20Kimi%20Räikkönen)
+- ✅ [**J - José e a Súmula**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/J%20-%20Jose%20e%20a%20Sumula)
+- ✅ [**K - Kimi Räikkönen**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/K%20-%20Kimi%20Raikkonen)
 - ⬜ **L - La Chaleur**
 
 ## 🚀 [**Fase Zero - 2025 (6 / 13)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
 
 
-- ✅ [**A - Ambíguo Gato de Schrödinger**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/a%20-%20gato%20ambiguo)
+- ✅ [**A - Ambíguo Gato de Schrödinger**](http://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/A%20-%20Ambiguo%20Gato%20de%20Schrodinger)
 - ⬜ **B - Busca Periódica**
 - ⬜ **C - Circuitos Lógicos Matriciais**
-- ✅ [**D - Decoerência Quântica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/d%20-%20decoerencia%20quantica)
-- ✅ [**E - Energização de Partículas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/e%20-%20energiza%C3%A7%C3%A3o%20de%20particulas)
+- ✅ [**D - Decoerência Quântica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/D%20-%20Decoerencia%20Quantica)
+- ✅ [**E - Energização de Partículas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/E%20-%20Energizacao%20de%20Particulas)
 - ⬜ **F - Feynman Decorando Números**
 - ⬜ **G - Grover e Seus Caminhos Especiais**
-- ✅ [**H - Harmonia Palíndromica Binária**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/h%20-%20Harmonia%20Pal%C3%ADndromica%20Bin%C3%A1ria)
+- ✅ [**H - Harmonia Palíndromica Binária**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/H%20-%20Harmonia%20Palindromica%20Binaria)
 - ⬜ **I - Inspecionando o Emaranhamento**
-- ✅ [**J - Jornada das Partículas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/J%20-%20Jornada%20das%20Part%C3%ADculas)
+- ✅ [**J - Jornada das Partículas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/J%20-%20Jornada%20das%20Particulas)
 - ⬜ **K - K Elementos Perdidos**
-- ✅ [**L - Linha de Produção de qPhones**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/l%20-%20Linha%20de%20Produção)
+- ✅ [**L - Linha de Produção de qPhones**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/L%20-%20Linha%20de%20Producao%20de%20qPhones)
 - ⬜ **M - Movimentação Assustadora à Distância**
