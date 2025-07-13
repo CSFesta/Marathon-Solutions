@@ -1,7 +1,6 @@
 🔗 [Link do Problema](https://judge.beecrowd.com/pt/problems/view/3420)
 -
 
-
 - 🧩 **Dificuldade:** 4 / 12  
     -
 - 🗂 **Tópicos:** [*Binary Search*, *Math*]  

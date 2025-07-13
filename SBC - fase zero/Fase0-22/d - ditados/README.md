@@ -1,7 +1,6 @@
 🔗 [Link do Problema](https://judge.beecrowd.com/pt/problems/view/3415)
 -
 
-
 - 🧩 **Dificuldade:** 6 / 12  
     -
 - 🗂 **Tópicos:** [*DP*, *String*]  
