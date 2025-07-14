@@ -16,7 +16,7 @@ ll cartas(ll n) {
 }
 
 ll binary_search(ll target){ 
-    ll r = (ll)1e9; // Limite superior seguro (não chega a 1e18 em cartas)
+    ll r = (ll)1e9; // Limite superior seguro (nao chega a 1e18 em cartas)
     ll l = 1;
     ll ans = 0;
 

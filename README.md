@@ -16,11 +16,11 @@ Cada pasta contém:
 - ✅ [**A  - Avaliações de Algoritmos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/A%20-%20Avaliacoes%20de%20Algoritmos)
 - ⬜ **B - Baita Desafio Complexo**
 - ⬜ **C - Chimambu**
-- ✅ [**D - Ditados**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/D%20-%20ditados)
+- ✅ [**D - Ditados**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/D%20-%20Ditados)
 - ✅ [**E - Eu Quero Cafééé**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/E%20-%20Eu%20Quero%20Cafeeee)
 - ⬜ **F - Falcatrua**
 - ⬜ **G - Gostos Peculiares**
-- ✅ [**H - Torre de Cartas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/H%20-%20torre%20de%20cartas)
+- ✅ [**H - Torre de Cartas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/H%20-%20Torre%20de%20Cartas)
 - ⬜ **I - Infinita String de Dígitos**
 - ✅ [**J - José e a Súmula**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/J%20-%20Jose%20e%20a%20Sumula)
 - ✅ [**K - Kimi Räikkönen**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/K%20-%20Kimi%20Raikkonen)

@@ -10,7 +10,7 @@ const double EPS = 1e-9;
 const ll INF = 1e18;
 using namespace std;
 
-// Função que calcula a distância de Levenshtein
+// Funcao que calcula a distância de Levenshtein
 int distanciaLevenshtein(const string& str1, const string& str2) {
     int m = str1.length();
     int n = str2.length();
