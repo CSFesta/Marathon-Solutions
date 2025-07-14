@@ -26,7 +26,7 @@ Cada pasta contém:
 - ✅ [**K - Kimi Räikkönen**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/K%20-%20Kimi%20Raikkonen)
 - ⬜ **L - La Chaleur**
 
-## 🚀 [**Fase Zero - 2025 (6 / 13)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
+## 🚀 [**Fase Zero - 2025 (7 / 13)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
 
 
 - ✅ [**A - Ambíguo Gato de Schrödinger**](http://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/A%20-%20Ambiguo%20Gato%20de%20Schrodinger)
@@ -34,7 +34,7 @@ Cada pasta contém:
 - ⬜ **C - Circuitos Lógicos Matriciais**
 - ✅ [**D - Decoerência Quântica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/D%20-%20Decoerencia%20Quantica)
 - ✅ [**E - Energização de Partículas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/E%20-%20Energizacao%20de%20Particulas)
-- ⬜ **F - Feynman Decorando Números**
+- ✅ [**F - Feynman Decorando Números**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/F%20-%20Feynman%20Decorando%20N%C3%BAmeros)
 - ⬜ **G - Grover e Seus Caminhos Especiais**
 - ✅ [**H - Harmonia Palíndromica Binária**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25/H%20-%20Harmonia%20Palindromica%20Binaria)
 - ⬜ **I - Inspecionando o Emaranhamento**
