@@ -11,7 +11,7 @@ Para cada questão resolvida, terá:
 
 ## 🚀 [**Fase Regional - 2006 (2 / 8)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006)
 
-- ⬜ **A - Circuito Bioquimico Digital**
+- ✅ [**A - Circuito Bioquimico Digital**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/C%20-%20Circuito%20Bioquimico%20Digital)
 - ⬜ **B - O Problema da Parada**
 - ✅ [**C - Paises em Guerra**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/C%20-%20Paises%20Em%20Guerra)
 - ⬜ **D - Energia × Tempo**
