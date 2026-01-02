@@ -9,7 +9,18 @@ Para cada questão resolvida, terá:
 
 ---
 
-## 🚀 [**Fase Regional - 2006 (2 / 8)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
+## 🚀 [**Fase Regional - 2006 (2 / 8)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006)
+
+- ⬜ **A - Circuito Bioquimico Digital**
+- ⬜ **B - O Problema da Parada**
+- ✅ [**C - Paises em Guerra**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/C%20-%20Paises%20Em%20Guerra)
+- ⬜ **D - Energia × Tempo**
+- ⬜ **E - MegaDamas**
+- ✅ [**F - Copa do Mundo**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/F%20-%20Copa%20do%20Mundo)
+- ⬜ **G - Rota Critica**
+- ⬜ **H - Amigos ou Inimigos?**
+
+## 🚀 [**Fase Regional - 2012 (2 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2012)
 
 ## 🚀 [**Fase Zero - 2022 (6 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
 

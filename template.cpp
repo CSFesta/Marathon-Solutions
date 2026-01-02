@@ -2,7 +2,7 @@
 #define ll long long int
 #define pb push_back
 #define eb emplace_back
-#define all(x) (x).begin(), (x).end()
+#define all(x) begin(x), end(x)
 #define sz(x) ((int)(x).size())
 
 const int MOD = 1e9 + 7;
