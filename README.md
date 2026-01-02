@@ -1,15 +1,15 @@
 ## ⚙️ Organização
 
-Cada pasta contém:
-- Códigos em **C++** (principalmente) e **Python** (em casos específicos)
+Para cada questão resolvida, terá: 
 - Comentários explicativos sempre que necessário
-- Nome do problema + link oficial + breve explicação/resumo
-- Nível de dificuldade (com base em frequência de resolução: ex. 1/12 se for o problema mais resolvido em uma prova com 12 questões)
+- Nome + link + Overview (**Dificuldade** (Medida pelas questões mais resolvidas na maratona: ex. **1/12 =** problema mais resolvido em uma prova com **12** questões), **Tópicos**, **Complexidade** (BIG (O)), **Principais desafios encontrados**)
 
-### 🔗 Clicando nas questões resolvidas, você será direcionado para a pasta de resolução daquela questão!
+
 ### ✅ Resolvido  ⬜ Não resolvido
 
 ---
+
+## 🚀 [**Fase Regional - 2006 (2 / 8)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
 
 ## 🚀 [**Fase Zero - 2022 (6 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
 
