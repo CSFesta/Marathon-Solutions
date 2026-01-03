@@ -20,85 +20,76 @@ Para cada questão resolvida, terá:
 - ⬜ **G - Rota Critica**
 - ⬜ **H - Amigos ou Inimigos?**
 
-## 🚀 **Fase Regional - 2007 (0 / X)**
+## 🚀 **Fase Regional - 2007 (0 / 10)**
 
-- ⬜ **A - NOME**
-- ⬜ **B - NOME**
-- ⬜ **C - NOME**
-- ⬜ **D - NOME**
-- ⬜ **E - NOME**
-- ⬜ **F - NOME**
-- ⬜ **G - NOME**
-- ⬜ **H - NOME**
-- ⬜ **I - ...**
-- ⬜ **J - ...**
-- ⬜ **K - ...**
-- ⬜ **L - ...**
-- ⬜ **M - ...**
+- ⬜ **A - Volei Marciano**
+- ⬜ **B - Rouba-monte**
+- ⬜ **C - Série de Tubos**
+- ⬜ **D - Mario**
+- ⬜ **E - Histórico de Comandos**
+- ⬜ **F - Caixas**
+- ⬜ **G - Onde Estão as Bolhas?**
+- ⬜ **H - Jogo de Varetas**
+- ⬜ **I - Zak Galou**
+- ⬜ **J - Olimpíadas**
 
-## 🚀 **Fase Regional - 2008 (0 / X)**
 
-- ⬜ **A - NOME**
-- ⬜ **B - NOME**
-- ⬜ **C - NOME**
-- ⬜ **D - NOME**
-- ⬜ **E - NOME**
-- ⬜ **F - NOME**
-- ⬜ **G - NOME**
-- ⬜ **H - NOME**
-- ⬜ **I - ...**
-- ⬜ **J - ...**
-- ⬜ **K - ...**
-- ⬜ **L - ...**
-- ⬜ **M - ...**
+## 🚀 **Fase Regional - 2008 (0 / 10)**
 
-## 🚀 **Fase Regional - 2009 (0 / X)**
+- ⬜ **A - Apagando e Ganhando**
+- ⬜ **B - Babel**
+- ⬜ **C - O Salão do Clube**
+- ⬜ **D - Dama**
+- ⬜ **E - Bolhas e Baldes**
+- ⬜ **F - Loop Musical**
+- ⬜ **G - Set**
+- ⬜ **H - Divisão da Nlogônia**
+- ⬜ **I - Maior Subseqüência Crescente**
+- ⬜ **J - Vampiros**
 
-- ⬜ **A - NOME**
-- ⬜ **B - NOME**
-- ⬜ **C - NOME**
-- ⬜ **D - NOME**
-- ⬜ **E - NOME**
-- ⬜ **F - NOME**
-- ⬜ **G - NOME**
-- ⬜ **H - NOME**
-- ⬜ **I - ...**
-- ⬜ **J - ...**
-- ⬜ **K - ...**
-- ⬜ **L - ...**
-- ⬜ **M - ...**
 
-## 🚀 **Fase Regional - 2010 (0 / X)**
 
-- ⬜ **A - NOME**
-- ⬜ **B - NOME**
-- ⬜ **C - NOME**
-- ⬜ **D - NOME**
-- ⬜ **E - NOME**
-- ⬜ **F - NOME**
-- ⬜ **G - NOME**
-- ⬜ **H - NOME**
-- ⬜ **I - ...**
-- ⬜ **J - ...**
-- ⬜ **K - ...**
-- ⬜ **L - ...**
-- ⬜ **M - ...**
 
-## 🚀 **Fase Regional - 2011 (0 / X)**
 
-- ⬜ **A - NOME**
-- ⬜ **B - NOME**
-- ⬜ **C - NOME**
-- ⬜ **D - NOME**
-- ⬜ **E - NOME**
-- ⬜ **F - NOME**
-- ⬜ **G - NOME**
-- ⬜ **H - NOME**
-- ⬜ **I - ...**
-- ⬜ **J - ...**
-- ⬜ **K - ...**
-- ⬜ **L - ...**
-- ⬜ **M - ...**
+## 🚀 **Fase Regional - 2009 (0 / 8)**
+
+- ⬜ **A - Ataque Fulminante**
+- ⬜ **B - Alarme Despertador**
+- ⬜ **C - Troca de Cartas**
+- ⬜ **D - Sub-prime**
+- ⬜ **E - Dragster**
+- ⬜ **F - Torres de Telefonia Celular**
+- ⬜ **G - Registrador de Deslocamento**
+- ⬜ **H - Escultura a Laser**
+
+
+## 🚀 **Fase Regional - 2010 (0 / 11)**
+
+- ⬜ **A - Revisão de Contrato**
+- ⬜ **B - Robô Colecionador**
+- ⬜ **C - Livro-caixa**
+- ⬜ **D - Desvio de Rota**
+- ⬜ **E - Elevador**
+- ⬜ **F - Fórmula 1**
+- ⬜ **G - Guerra nas estrelas**
+- ⬜ **H - Plágio Musical**
+- ⬜ **I - Ir e Vir**
+- ⬜ **J - Leitura Otica**
+- ⬜ **K - Jogo da Velha**
+
+
+
+## 🚀 **Fase Regional - 2011 (0 / 9)**
+
+- ⬜ **A - Acido**
+- ⬜ **B - Botas**
+- ⬜ **C - Campeonato**
+- ⬜ **D - Desvio**
+- ⬜ **E - Estacionamento**
+- ⬜ **F - Foco**
+- ⬜ **G - Guarda**
+- ⬜ **H - Homem**
+- ⬜ **I - Incidente**
 
 
 ## 🚀 [**Fase Regional - 2012 (2 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2012)
@@ -116,7 +107,7 @@ Para cada questão resolvida, terá:
 - ⬜ **K - Ciclo de Rubik**
 - ⬜ **L - Estrela**
 
-## 🚀 **Fase Regional - 2013 (0 / X)**
+## 🚀 **Fase Regional - 2013 (0 / 10)**
 
 - ⬜ **A - Zerinho ou Um**
 - ⬜ **B - Balão**
@@ -126,13 +117,12 @@ Para cada questão resolvida, terá:
 - ⬜ **F - Triângulos**
 - ⬜ **G - Linhas de contêineres**
 - ⬜ **H - Ônibus**
-- ⬜ **H - Remendo**
-- ⬜ **H - Caminhão**
+- ⬜ **I - Remendo**
+- ⬜ **J - Caminhão**
 
-## 🚀 **Fase Regional - 2014 (0 / X)**
+## 🚀 **Fase Regional - 2014 (0 / 11)**
 
-
-- ⬜ **A -  Volta**
+- ⬜ **A - Volta**
 - ⬜ **B - Baralho Embaralhado**
 - ⬜ **C - Confederação**
 - ⬜ **D - Dona Minhoca**
@@ -144,7 +134,7 @@ Para cada questão resolvida, terá:
 - ⬜ **J - Corte**
 - ⬜ **K - Pizza**
 
-## 🚀 **Fase Regional - 2015 (0 / X)**
+## 🚀 **Fase Regional - 2015 (0 / 12)**
 
 - ⬜ **A - Mania de Par**
 - ⬜ **B - Bolsa de Valores**
@@ -159,7 +149,7 @@ Para cada questão resolvida, terá:
 - ⬜ **K - Palíndromo**
 - ⬜ **L - Loteria**
 
-## 🚀 **Fase Regional - 2016 (0 / X)**
+## 🚀 **Fase Regional - 2016 (0 / 12)**
 
 - ⬜ **A - Andando no Tempo**
 - ⬜ **B - Batata Quente**
@@ -174,7 +164,7 @@ Para cada questão resolvida, terá:
 - ⬜ **K - Kit de Encolhimento de Polígonos**
 - ⬜ **L - Ladrilhos**
 
-## 🚀 **Fase Regional - 2017 (0 / X)**
+## 🚀 **Fase Regional - 2017 (0 / 13)**
 
 - ⬜ **A - Acordes Intergaláticos**
 - ⬜ **B - Brincadeira**
@@ -190,7 +180,7 @@ Para cada questão resolvida, terá:
 - ⬜ **L - Laboratório de Biotecnologia**
 - ⬜ **M - Máquina de Café**
 
-## 🚀 **Fase Regional - 2018 (0 / X)**
+## 🚀 **Fase Regional - 2018 (0 / 13)**
 
 - ⬜ **A - Aventurando-se no Slackline**
 - ⬜ **B - Bolinhas de Gude**
@@ -206,7 +196,7 @@ Para cada questão resolvida, terá:
 - ⬜ **L - Linhas do Metrô**
 - ⬜ **M - Modificando SAT**
 
-## 🚀 **Fase Regional - 2019 (0 / X)**
+## 🚀 **Fase Regional - 2019 (0 / 13)**
 
 - ⬜ **A - Arte Valiosa**
 - ⬜ **B - Bobo da Corte**
@@ -222,7 +212,7 @@ Para cada questão resolvida, terá:
 - ⬜ **L - Lançando Moedas**
 - ⬜ **M - Maratona Brasileira de Comedores de Pipocas**
 
-## 🚀 **Fase Regional - 2020 (0 / X)**
+## 🚀 **Fase Regional - 2020 (0 / 15)**
 
 - ⬜ **A - Álbum de Figurinhas**
 - ⬜ **B - Batalha Naval**
@@ -240,7 +230,7 @@ Para cada questão resolvida, terá:
 - ⬜ **N - Números Multiplicados**
 - ⬜ **O - Ônibus Venusiano**
 
-## 🚀 **Fase Regional - 2021 (0 / X)**
+## 🚀 **Fase Regional - 2021 (0 / 14)**
 
 - ⬜ **A - Alocação de Prêmios**
 - ⬜ **B - Belas Palavras**
@@ -258,6 +248,40 @@ Para cada questão resolvida, terá:
 - ⬜ **N - Na Trave!**
 
 
+## 🚀 **Fase Regional - 2023 (0 / 13)**
+
+- ⬜ **A - Altura Mínima**
+- ⬜ **B - Baralho Embaralhado**
+- ⬜ **C - Caminhada na Montanha**
+- ⬜ **D - Desvio**
+- ⬜ **E - Extraindo Pólen**
+- ⬜ **F - Férias Cansativas**
+- ⬜ **G - Grande Tratado da Bytelândia**
+- ⬜ **H - Honroso Trabalhador**
+- ⬜ **I - Investigando Zeros e Uns**
+- ⬜ **J - Jogo de Vôlei**
+- ⬜ **K - k pra Mais, k pra Menos**
+- ⬜ **L - Lexigraficamente Agradável**
+- ⬜ **M - Malha Aérea**
+
+
+## 🚀 **Fase Regional - 2024 (0 / 12)**
+
+- ⬜ **A - Atenção à Reunião**
+- ⬜ **B - Bacon Number**
+- ⬜ **C - Casal do BipBop**
+- ⬜ **D - Desafio do Chefão**
+- ⬜ **E - Estojo de Joias**
+- ⬜ **F - Frações Contínuas**
+- ⬜ **G - Geografia dos Rios**
+- ⬜ **H - Harmônicos Interferentes**
+- ⬜ **I - Ingredientes Alergênicos**
+- ⬜ **J - Jornada Colorida**
+- ⬜ **K - Karamell**
+- ⬜ **L - Lexicograficamente Máximo**
+
+
+
 ## 🚀 [**Fase Zero - 2022 (6 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
 
 - ✅ [**A  - Avaliações de Algoritmos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/A%20-%20Avaliacoes%20de%20Algoritmos)
@@ -272,6 +296,7 @@ Para cada questão resolvida, terá:
 - ✅ [**J - José e a Súmula**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/J%20-%20Jose%20e%20a%20Sumula)
 - ✅ [**K - Kimi Räikkönen**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22/K%20-%20Kimi%20Raikkonen)
 - ⬜ **L - La Chaleur**
+
 
 ## 🚀 [**Fase Zero - 2025 (7 / 13)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-25)
 
