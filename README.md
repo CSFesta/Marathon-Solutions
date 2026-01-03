@@ -9,13 +9,13 @@ Para cada questão resolvida, terá:
 
 ---
 
-## 🚀 [**Fase Regional - 2006 (3 / 8)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006)
+## 🚀 [**Fase Regional - 2006 (4 / 8)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006)
 
 - ✅ [**A - Circuito Bioquimico Digital**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/C%20-%20Circuito%20Bioquimico%20Digital)
 - ⬜ **B - O Problema da Parada**
 - ✅ [**C - Paises em Guerra**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/C%20-%20Paises%20Em%20Guerra)
 - ⬜ **D - Energia × Tempo**
-- ⬜ **E - MegaDamas**
+- ✅ [**E - MegaDamas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/E%20-%20MegaDamas)
 - ✅ [**F - Copa do Mundo**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/F%20-%20Copa%20do%20Mundo)
 - ⬜ **G - Rota Critica**
 - ⬜ **H - Amigos ou Inimigos?**
