@@ -5,7 +5,7 @@ Para cada questão resolvida, terá:
 - Nome + link + Overview (**Dificuldade** (Medida pelas questões mais resolvidas na maratona: ex. **1/12 =** problema mais resolvido em uma prova com **12** questões), **Tópicos**, **Complexidade** (BIG (O)), **Principais desafios encontrados**)
 
 
-### ✅ Resolvido  ⬜ Não resolvido
+### ✅ Resolvido  ⬜ Não resolvido 
 
 ---
 
@@ -20,7 +20,243 @@ Para cada questão resolvida, terá:
 - ⬜ **G - Rota Critica**
 - ⬜ **H - Amigos ou Inimigos?**
 
+## 🚀 **Fase Regional - 2007 (0 / X)**
+
+- ⬜ **A - NOME**
+- ⬜ **B - NOME**
+- ⬜ **C - NOME**
+- ⬜ **D - NOME**
+- ⬜ **E - NOME**
+- ⬜ **F - NOME**
+- ⬜ **G - NOME**
+- ⬜ **H - NOME**
+- ⬜ **I - ...**
+- ⬜ **J - ...**
+- ⬜ **K - ...**
+- ⬜ **L - ...**
+- ⬜ **M - ...**
+
+## 🚀 **Fase Regional - 2008 (0 / X)**
+
+- ⬜ **A - NOME**
+- ⬜ **B - NOME**
+- ⬜ **C - NOME**
+- ⬜ **D - NOME**
+- ⬜ **E - NOME**
+- ⬜ **F - NOME**
+- ⬜ **G - NOME**
+- ⬜ **H - NOME**
+- ⬜ **I - ...**
+- ⬜ **J - ...**
+- ⬜ **K - ...**
+- ⬜ **L - ...**
+- ⬜ **M - ...**
+
+## 🚀 **Fase Regional - 2009 (0 / X)**
+
+- ⬜ **A - NOME**
+- ⬜ **B - NOME**
+- ⬜ **C - NOME**
+- ⬜ **D - NOME**
+- ⬜ **E - NOME**
+- ⬜ **F - NOME**
+- ⬜ **G - NOME**
+- ⬜ **H - NOME**
+- ⬜ **I - ...**
+- ⬜ **J - ...**
+- ⬜ **K - ...**
+- ⬜ **L - ...**
+- ⬜ **M - ...**
+
+## 🚀 **Fase Regional - 2010 (0 / X)**
+
+- ⬜ **A - NOME**
+- ⬜ **B - NOME**
+- ⬜ **C - NOME**
+- ⬜ **D - NOME**
+- ⬜ **E - NOME**
+- ⬜ **F - NOME**
+- ⬜ **G - NOME**
+- ⬜ **H - NOME**
+- ⬜ **I - ...**
+- ⬜ **J - ...**
+- ⬜ **K - ...**
+- ⬜ **L - ...**
+- ⬜ **M - ...**
+
+## 🚀 **Fase Regional - 2011 (0 / X)**
+
+- ⬜ **A - NOME**
+- ⬜ **B - NOME**
+- ⬜ **C - NOME**
+- ⬜ **D - NOME**
+- ⬜ **E - NOME**
+- ⬜ **F - NOME**
+- ⬜ **G - NOME**
+- ⬜ **H - NOME**
+- ⬜ **I - ...**
+- ⬜ **J - ...**
+- ⬜ **K - ...**
+- ⬜ **L - ...**
+- ⬜ **M - ...**
+
+
 ## 🚀 [**Fase Regional - 2012 (2 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2012)
+
+- ⬜ **A - Concurso de Contos**
+- ⬜ **B - Tobogan de Bolinhas**
+- ⬜ **C - Cartões**
+- ⬜ **D - Coral Perfeito**
+- ⬜ **E - Elevador Espacial**
+- ⬜ **F - Perdido na Noite**
+- ⬜ **G - Grid de Largada**
+- ⬜ **H - Combate ao Câncer**
+- ⬜ **I - Integral**
+- ⬜ **J - Palavras**
+- ⬜ **K - Ciclo de Rubik**
+- ⬜ **L - Estrela**
+
+## 🚀 **Fase Regional - 2013 (0 / X)**
+
+- ⬜ **A - Zerinho ou Um**
+- ⬜ **B - Balão**
+- ⬜ **C - Chefe**
+- ⬜ **D - Máquina Dobrada**
+- ⬜ **E - Mergulho**
+- ⬜ **F - Triângulos**
+- ⬜ **G - Linhas de contêineres**
+- ⬜ **H - Ônibus**
+- ⬜ **H - Remendo**
+- ⬜ **H - Caminhão**
+
+## 🚀 **Fase Regional - 2014 (0 / X)**
+
+
+- ⬜ **A -  Volta**
+- ⬜ **B - Baralho Embaralhado**
+- ⬜ **C - Confederação**
+- ⬜ **D - Dona Minhoca**
+- ⬜ **E - Ecologia**
+- ⬜ **F - Teletransporte**
+- ⬜ **G - Letras**
+- ⬜ **H - Handebol**
+- ⬜ **I - RSA**
+- ⬜ **J - Corte**
+- ⬜ **K - Pizza**
+
+## 🚀 **Fase Regional - 2015 (0 / X)**
+
+- ⬜ **A - Mania de Par**
+- ⬜ **B - Bolsa de Valores**
+- ⬜ **C - Tri-du**
+- ⬜ **D - Quebra-Cabeça**
+- ⬜ **E - Espiral**
+- ⬜ **F - Fatorial**
+- ⬜ **G - Guardiões Curiosos**
+- ⬜ **H - Praça do Retângulo**
+- ⬜ **I - Ominobox**
+- ⬜ **J - Jogo da Estratégia**
+- ⬜ **K - Palíndromo**
+- ⬜ **L - Loteria**
+
+## 🚀 **Fase Regional - 2016 (0 / X)**
+
+- ⬜ **A - Andando no Tempo**
+- ⬜ **B - Batata Quente**
+- ⬜ **C - Containers**
+- ⬜ **D - Divisores**
+- ⬜ **E - Estatística Hexa**
+- ⬜ **F - Fundindo árvores**
+- ⬜ **G - GO--**
+- ⬜ **H - huaauhahhuahau**
+- ⬜ **I - Isósceles**
+- ⬜ **J - Jogos Olímpicos**
+- ⬜ **K - Kit de Encolhimento de Polígonos**
+- ⬜ **L - Ladrilhos**
+
+## 🚀 **Fase Regional - 2017 (0 / X)**
+
+- ⬜ **A - Acordes Intergaláticos**
+- ⬜ **B - Brincadeira**
+- ⬜ **C - Cigarras Periódicas**
+- ⬜ **D - Despojados**
+- ⬜ **E - Escala Musical**
+- ⬜ **F - Fase**
+- ⬜ **G - Ginástica**
+- ⬜ **H - Hipercampo**
+- ⬜ **I - Imposto Real**
+- ⬜ **J - Jogo de Boca**
+- ⬜ **K - K-ésimo**
+- ⬜ **L - Laboratório de Biotecnologia**
+- ⬜ **M - Máquina de Café**
+
+## 🚀 **Fase Regional - 2018 (0 / X)**
+
+- ⬜ **A - Aventurando-se no Slackline**
+- ⬜ **B - Bolinhas de Gude**
+- ⬜ **C - Cortador de Pizza**
+- ⬜ **D - Desvendando Monty Hall**
+- ⬜ **E - Enigma**
+- ⬜ **F - Festival**
+- ⬜ **G - Gasolina**
+- ⬜ **H - Hipótese Policial**
+- ⬜ **I - Interruptores**
+- ⬜ **J - Juntando Capitais**
+- ⬜ **K - Kepler**
+- ⬜ **L - Linhas do Metrô**
+- ⬜ **M - Modificando SAT**
+
+## 🚀 **Fase Regional - 2019 (0 / X)**
+
+- ⬜ **A - Arte Valiosa**
+- ⬜ **B - Bobo da Corte**
+- ⬜ **C - Cruzeiro Perigoso**
+- ⬜ **D - Delação Premiada**
+- ⬜ **E - Exibição de Peixes**
+- ⬜ **F - Florestas em Risco**
+- ⬜ **G - Guardando Enfeites**
+- ⬜ **H - Hora da Corrida**
+- ⬜ **I - Interplanetário**
+- ⬜ **J - Jogo de Baralho**
+- ⬜ **K - Keep Calm e Venda Balões**
+- ⬜ **L - Lançando Moedas**
+- ⬜ **M - Maratona Brasileira de Comedores de Pipocas**
+
+## 🚀 **Fase Regional - 2020 (0 / X)**
+
+- ⬜ **A - Álbum de Figurinhas**
+- ⬜ **B - Batalha Naval**
+- ⬜ **C - Concatenando Times**
+- ⬜ **D - Dança da Divisibilidade**
+- ⬜ **E - Empresa de Festas**
+- ⬜ **F - Fastminton**
+- ⬜ **G - Game Show!**
+- ⬜ **H - Hangar do SBC**
+- ⬜ **I - Interatividade**
+- ⬜ **J - Juntando Dados**
+- ⬜ **K - Ká entre Nós**
+- ⬜ **L - Lavaspar**
+- ⬜ **M - Metralhadora**
+- ⬜ **N - Números Multiplicados**
+- ⬜ **O - Ônibus Venusiano**
+
+## 🚀 **Fase Regional - 2021 (0 / X)**
+
+- ⬜ **A - Alocação de Prêmios**
+- ⬜ **B - Belas Palavras**
+- ⬜ **C - Criando Multiplos**
+- ⬜ **D - Dividindo o Reino**
+- ⬜ **E - Escada Rolante**
+- ⬜ **F - Fuga da Prisão**
+- ⬜ **G - Garantindo o Treino**
+- ⬜ **H - Haja Ordenação**
+- ⬜ **I - Invertendo Ferrovias**
+- ⬜ **J - Jogo Duro**
+- ⬜ **K - Katmandu**
+- ⬜ **L - Lembre sua Senha**
+- ⬜ **M - Monarquia em Vertigem**
+- ⬜ **N - Na Trave!**
+
 
 ## 🚀 [**Fase Zero - 2022 (6 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20zero/Fase0-22)
 
