@@ -18,7 +18,7 @@ Para cada questão resolvida, terá:
 - ✅ [**E - MegaDamas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/E%20-%20MegaDamas)
 - ✅ [**F - Copa do Mundo**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/F%20-%20Copa%20do%20Mundo)
 - ✅ [**G - Rota Critica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/G%20-%20Rota%20Critica)
-- ⬜ **H - Amigos ou Inimigos?**
+- ✅ [**H - Amigos ou Inimigos?**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/H%20-%20Amigos%20ou%20Inimigos)
 
 ## 🚀 **Fase Regional - 2007 (0 / 10)**
 
