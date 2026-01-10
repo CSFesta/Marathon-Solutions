@@ -4,7 +4,7 @@
 
 - 🧩 **Dificuldade:** 1 / 8 
     -
-- 🗂 **Tópicos:** [Matemática]  
+- 🗂 **Tópicos:** [**Matemática**]  
     -
 - 🧮 **Complexidade:** `O(N)`  
     -
