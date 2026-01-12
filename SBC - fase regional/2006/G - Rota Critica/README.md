@@ -10,7 +10,7 @@
     -
 - 🎯 **Desafios principais:** 
     - O entendimneto do problema é tranquilo, só é mais chato de testar os casos de entrada na mão, pois eles vem em string
-    - Ter conhecimento de DFS e teoria númerica já é o suficiente pra resolver
+    - Ter conhecimento de DFS já é o suficiente pra resolver
 
 - 🔎 **Ideia:**
     - Basicamente para cada aresta u -> v, vamos rodar um DFS, "excluindo" a aresta atual (u -> v) e verificar se conseguimos chegar no vértice 0.
