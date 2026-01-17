@@ -20,7 +20,7 @@ Para cada questão resolvida, terá:
 - ✅ [**G - Rota Critica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/G%20-%20Rota%20Critica)
 - ✅ [**H - Amigos ou Inimigos?**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/H%20-%20Amigos%20ou%20Inimigos)
 
-## 🚀 **Fase Regional - 2007 (6 / 10)**
+## 🚀 [**Fase Regional - 2007 (6 / 10)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007)
 
 - ⬜ **A - Volei Marciano**
 - [✅ **B - Rouba-monte**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/B%20-%20Rouba%20Monte)
