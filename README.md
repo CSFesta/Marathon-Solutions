@@ -20,16 +20,16 @@ Para cada questão resolvida, terá:
 - ✅ [**G - Rota Critica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/G%20-%20Rota%20Critica)
 - ✅ [**H - Amigos ou Inimigos?**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/H%20-%20Amigos%20ou%20Inimigos)
 
-## 🚀 **Fase Regional - 2007 (0 / 10)**
+## 🚀 **Fase Regional - 2007 (6 / 10)**
 
 - ⬜ **A - Volei Marciano**
-- ⬜ **B - Rouba-monte**
-- ⬜ **C - Série de Tubos**
-- ⬜ **D - Mario**
-- ⬜ **E - Histórico de Comandos**
-- ⬜ **F - Caixas**
+- [✅ **B - Rouba-monte**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/B%20-%20Rouba%20Monte)
+- [✅ **C - Série de Tubos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/C%20-%20Serie%20de%20Tubos)
+- [✅ **D - Mario**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/D%20-%20Mario)
+- [✅ **E - Histórico de Comandos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/E%20-%20Historico%20de%20Comandos)
+- [✅ **F - Desempilhando Caixas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/F%20-%20Desempilhando%20Caixas)
 - ⬜ **G - Onde Estão as Bolhas?**
-- ⬜ **H - Jogo de Varetas**
+- [✅ **H - Jogo de Varetas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/H%20-%20Jogo%20de%20Varetas)
 - ⬜ **I - Zak Galou**
 - ⬜ **J - Olimpíadas**
 
