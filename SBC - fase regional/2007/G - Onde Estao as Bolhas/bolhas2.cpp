@@ -10,7 +10,7 @@ const double EPS = 1e-9;
 const ll INF = 1e18;
 using namespace std;
 
-int main(){
+int main(){ //Solução O(nlog(n))
     ios::sync_with_stdio(false);
     cin.tie(0);
     int n, m;
