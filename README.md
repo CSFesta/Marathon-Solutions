@@ -20,7 +20,7 @@ Para cada questão resolvida, terá:
 - ✅ [**G - Rota Critica**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/G%20-%20Rota%20Critica)
 - ✅ [**H - Amigos ou Inimigos?**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2006/H%20-%20Amigos%20ou%20Inimigos)
 
-## 🚀 [**Fase Regional - 2007 (7 / 10)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007)
+## 🚀 [**Fase Regional - 2007 (8 / 10)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007)
 
 - ⬜ **A - Volei Marciano**
 - [✅ **B - Rouba-monte**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/B%20-%20Rouba%20Monte)
@@ -30,7 +30,7 @@ Para cada questão resolvida, terá:
 - [✅ **F - Desempilhando Caixas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/F%20-%20Desempilhando%20Caixas)
 - [✅ **G - Onde Estão as Bolhas?**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/G%20-%20Onde%20Estao%20as%20Bolhas)
 - [✅ **H - Jogo de Varetas**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/H%20-%20Jogo%20de%20Varetas)
-- ⬜ **I - Zak Galou**
+- [✅ **I - Zak Galou**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2007/I%20-%20Zak%20Galou)
 - ⬜ **J - Olimpíadas**
 
 
