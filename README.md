@@ -34,16 +34,16 @@ Para cada questão resolvida, terá:
 - ⬜ **J - Olimpíadas**
 
 
-## 🚀 **Fase Regional - 2008 (0 / 10)**
+## 🚀 [**Fase Regional - 2008 (3 / 10)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2008)
 
 - ⬜ **A - Apagando e Ganhando**
 - ⬜ **B - Babel**
 - ⬜ **C - O Salão do Clube**
-- ⬜ **D - Dama**
+- [✅ **D - Dama**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2008/D%20-%20Dama)
 - ⬜ **E - Bolhas e Baldes**
-- ⬜ **F - Loop Musical**
+- [✅ **F - Loop Musical**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2008/F%20-%20Loop%20Musical)
 - ⬜ **G - Set**
-- ⬜ **H - Divisão da Nlogônia**
+- [✅ **H - Divisão da Nlogônia**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2008/H%20-%20Divisao%20da%20Nlogonia)
 - ⬜ **I - Maior Subseqüência Crescente**
 - ⬜ **J - Vampiros**
 
