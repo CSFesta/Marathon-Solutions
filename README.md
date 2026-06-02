@@ -149,7 +149,7 @@ Para cada questão resolvida, terá:
 - ⬜ **K - Palíndromo**
 - ⬜ **L - Loteria**
 
-## 🚀 [**Fase Regional - 2016 (5 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016)
+## 🚀 [**Fase Regional - 2016 (6 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016)
 
 - [✅ **A - Andando no Tempo**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/A%20-%20Andando%20no%20Tempo)
 - ⬜ **B - Batata Quente**
@@ -157,7 +157,7 @@ Para cada questão resolvida, terá:
 - [✅ **D - Divisores**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/D%20-%20Divisores)
 - ⬜ **E - Estatística Hexa**
 - ⬜ **F - Fundindo árvores**
-- ⬜ **G - GO--**
+- [✅ **G - GO--**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/G%20-%20GO--)
 - [✅ **H - huaauhahhuahau**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/H%20-%20Huaauhahhuahau)
 - [✅ **I - Isósceles**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/I%20-%20Is%C3%B3sceles)
 - ⬜ **J - Jogos Olímpicos**
