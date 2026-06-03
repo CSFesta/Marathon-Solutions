@@ -25,7 +25,7 @@ e Nlog(), pois estou utilizando tanto um "pq", quanto um set< container > como  
         - priority queue (min) = pq < peso, container >
     - Inicializar a pq com o container inicial
     - enquanto 'pq' não estiver vazio:
-        -  se o container atual não tiver sido visitado continua
+        -  se o container atual já tiver sido visitado da um 'continue'
         - se o container atual for igual ao container final / target, retorna o peso, pois o dijkstra garante que assim que chegamos no vertice objetivo aquele será o caminho minimo
         
         - caso contrario, vamos apenas por o container atual como visitado
