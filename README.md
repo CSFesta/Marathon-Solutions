@@ -94,7 +94,7 @@ Para cada questão resolvida, terá:
 
 ## 🚀 [**Fase Regional - 2012 (2 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2012)
 
-- ⬜ **A - Concurso de Contos**
+- [✅ **A - Concurso de Contos**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2012/A%20-%20Concurso%20de%20Contos)
 - ⬜ **B - Tobogan de Bolinhas**
 - ⬜ **C - Cartões**
 - ⬜ **D - Coral Perfeito**
@@ -105,7 +105,7 @@ Para cada questão resolvida, terá:
 - ⬜ **I - Integral**
 - ⬜ **J - Palavras**
 - ⬜ **K - Ciclo de Rubik**
-- ⬜ **L - Estrela**
+- [✅ **L - Estrela**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2012/L%20-%20Estrela)
 
 ## 🚀 **Fase Regional - 2013 (0 / 10)**
 
