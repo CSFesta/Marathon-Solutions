@@ -2,7 +2,7 @@
 -
 
 
-- 🧩 **Dificuldade:** 9 / 10 
+- 🧩 **Dificuldade:** 10 / 11 
     -
 - 🗂 **Tópicos:** [**DP, Grafos, Sort, Força Bruta**]  
     -

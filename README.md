@@ -120,13 +120,13 @@ Para cada questão resolvida, terá:
 - ⬜ **I - Remendo**
 - ⬜ **J - Caminhão**
 
-## 🚀 **Fase Regional - 2014 (0 / 11)**
+## 🚀 [**Fase Regional - 2014 (2 / 11)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2014)
 
-- ⬜ **A - Volta**
+- [✅ **A - Volta**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2014/A%20-%20Volta)
 - ⬜ **B - Baralho Embaralhado**
 - ⬜ **C - Confederação**
 - ⬜ **D - Dona Minhoca**
-- ⬜ **E - Ecologia**
+- [✅ **E - Ecologia**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2014/E%20-%20Ecologia)
 - ⬜ **F - Teletransporte**
 - ⬜ **G - Letras**
 - ⬜ **H - Handebol**
@@ -149,14 +149,14 @@ Para cada questão resolvida, terá:
 - ⬜ **K - Palíndromo**
 - ⬜ **L - Loteria**
 
-## 🚀 [**Fase Regional - 2016 (7 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016)
+## 🚀 [**Fase Regional - 2016 (8 / 12)**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016)
 
 - [✅ **A - Andando no Tempo**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/A%20-%20Andando%20no%20Tempo)
 - ⬜ **B - Batata Quente**
 - [✅ **C - Containers**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/C%20-%20Containers)
 - [✅ **D - Divisores**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/D%20-%20Divisores)
 - ⬜ **E - Estatística Hexa**
-- ⬜ **F - Fundindo árvores**
+- [✅ **F - Fundindo árvores**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/F%20-%20Fundindo%20%C3%A1rvores)
 - [✅ **G - GO--**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/G%20-%20GO--)
 - [✅ **H - huaauhahhuahau**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/H%20-%20Huaauhahhuahau)
 - [✅ **I - Isósceles**](https://github.com/CSFesta/Marathon-Solutions/tree/main/SBC%20-%20fase%20regional/2016/I%20-%20Is%C3%B3sceles)
